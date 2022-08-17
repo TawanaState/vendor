@@ -1,0 +1,18 @@
+/* ------------------------TAG UI COMPONENT------------------- */
+.ui-tag-item{
+    background-color: #808080af;
+    padding: 5px;
+    margin: 2px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    color:white;
+    width: fit-content;
+    cursor: pointer;
+    font-size:medium;
+    font-weight: 600;
+}
+.ui-tag-item:hover{
+    background-color: gray;
+}
+
+
